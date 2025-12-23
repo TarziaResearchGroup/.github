@@ -1,4 +1,4 @@
-## Welcome to the Tarzia Research Group (trg.) github
+## Welcome to the Tarzia Research Group github
 
 We develop software in the space of computational supramolecular chemistry at the 
 [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/chemistry/dr-andrew-tarzia).
